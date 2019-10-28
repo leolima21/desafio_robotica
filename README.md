@@ -1,6 +1,6 @@
 
 PROCESSO SELETIVO – PROGRAMA NOVOS TALENTOS
-=============================================
+-------------------------------------------
 
 Este repositorio contem todos os aquivos gerados pelo candidato LEONARDO MENDES DE SOUZA LIMA, referentes ao desafio proposto pelo programa. Devido a alguns problemas, o desafio nao foi completamente solucionado mas por meio deste arquivo poderei explicar a ideia principal que tive e os problemas que encontrei no desenvolvimento da solucao.
 
