@@ -5,9 +5,8 @@ PROCESSO SELETIVO – PROGRAMA NOVOS TALENTOS
 Este repositorio contem todos os aquivos gerados pelo candidato LEONARDO MENDES DE SOUZA LIMA, referentes ao desafio proposto pelo programa. Devido a alguns problemas, o desafio nao foi completamente solucionado mas por meio deste arquivo poderei explicar a ideia principal que tive e os problemas que encontrei no desenvolvimento da solucao.
 
 
-==============================================
 1.0 IDEIA PRINCIPAL PARA A SOLUCAO DO PROBLEMA
-==============================================
+----------------------------------------------
 
 1.1 Mapeamento:
 Tendo em vista o tempo de 2 minutos para a execucao da missao, era necessario que o quadcopter se movimentasse pelo labirinto de forma bastante objetiva, sem perder muito tempo na exploracao do ambiente. Entao, decidi integrar o Hector SLAM ao quadricoptero para fazer o mapeamento da regiao apresentada.  
@@ -24,9 +23,8 @@ Ideia alternativa:
 Uma ideia alternativa a apresentada acima era usar o recurso path finding para gerar um caminho de forma automatica. Regulando a area de acao da ferramenta seria possivel simular sensores e ao mesmo tempo fazer o quadricoptero se movimentar de forma aleatoria pelo mapa. O ponto de chegada do caminho seria alternado atraves de pontos aleatorios.
 
 
-==============================================
 2.0 PROBLEMAS ENCONTRADOS
-==============================================
+-------------------------------------------
 
 2.1 Falta de conhecimento com o software V-REP:
 Por ser a primeira vez utilizando o software em questao, a maior parte do tempo de trabalho foi realmente aprender a usar o programa. O mesmo possui poucos meios de aprendizado na internet e recentemente o forum do simulador passou por diversos tipos de SPAM e por isso nao estava permitindo que novos usuarios criassem topicos sem antes passar por uma aprovacao de um moderador na primeira vez e isso levou dias. Nenhuma postagem minha foi respondida.
@@ -50,9 +48,8 @@ QMutex: destroying locked mutex
 A substituicao de algumas ferramentas ao longo da atualizacao do V-REP fez com que o pouco conteudo disponibilizado para aprendicado fosse limitado ainda mais pois os tutoriais disponiveis apresentavam solucoes em ferramentas que ja haviam sido descontinuadas. Exemplos que posso citar: path finding e o plugin de integracao com o ROS.
 
 
-===============================================
 CONSIDERACOES FINAIS
-===============================================
+-------------------------------------------
 Apesar de nao ter conseguido completar a implementacao da solucao, gostaria de agradecer a oportunidade a todos os envolvidos no projeto. obrigado.
 
 
